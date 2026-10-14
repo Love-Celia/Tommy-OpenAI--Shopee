@@ -1,0 +1,4 @@
+interface:
+  display_name: "shopee 秒杀活动续建"
+  short_description: "通过 Safari 和 Chrome 先补今天遗漏，再复制最新活动建齐明天秒杀"
+  default_prompt: "使用 $shopee-copy-flash-sale，检查 Safari 泰国店铺和 Chrome 泰国、新加坡、马来西亚店铺的店内秒杀，先补齐今天仍可创建的遗漏，再按时间顺序建齐明天全部场次。商品标准选全部，活动库存5、限购2，沿用复制来源的商品和价格，并返回活动列表核对。"
