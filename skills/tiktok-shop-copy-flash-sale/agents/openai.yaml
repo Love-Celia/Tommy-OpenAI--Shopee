@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok Shop 秒杀活动连续续排"
+  short_description: "核对今天日期与 TikTok Shop 已建秒杀，为当天到期活动续建三天"
+  default_prompt: "使用 $tiktok-shop-copy-flash-sale，先获取当前日期，再检查 JOYO-AUDIO 泰国、新加坡、马来西亚的商家秒杀，为今天到期且尚无后续排期的活动续建三天，保留商品和价格，核对叠加优惠后发布并回读。"
